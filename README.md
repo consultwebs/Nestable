@@ -5,7 +5,7 @@ Nestable
 
 ### Drag & drop hierarchical list with mouse and touch compatibility (jQuery / Zepto plugin)
 
-[**Try Nestable Demo**](http://consultwebs.github.com/Nestable/)
+[**Try Nestable Demo**](https://consultwebs.github.io/Nestable/)
 
 Nestable is an experimental example and not under active development. If it suits your requirements feel free to expand upon it!
 
