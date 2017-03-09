@@ -1,15 +1,11 @@
 Nestable
 ========
 
-## PLEASE NOTE
-
-**I cannot provide any support or guidance beyond this README. If this code helps you that's great but I have no plans to develop Nestable beyond this demo (it's not a final product and has limited functionality). I cannot reply to any requests for help.**
-
 * * *
 
 ### Drag & drop hierarchical list with mouse and touch compatibility (jQuery / Zepto plugin)
 
-[**Try Nestable Demo**](http://bperel.github.com/Nestable/)
+[**Try Nestable Demo**](http://consultwebs.github.com/Nestable/)
 
 Nestable is an experimental example and not under active development. If it suits your requirements feel free to expand upon it!
 
